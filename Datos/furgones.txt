@@ -1,0 +1,10 @@
+Ford,Transit,AAA111,15,4
+Mercedes, Sprinter,BBB222,17,4
+Renault, Master,CCC333,12,4
+Volkswagen,Crafter,DDD444,20,5
+Fiat,Ducato,EEE555,14,4
+Peugeot,Boxer,FFF666,16,4
+Citroen,Jumper,GGG777,18,5
+Iveco,Daily,HHH888,19,4
+Ford,Focus,XXX444,5,5
+sss,sss,FOC503,4,4

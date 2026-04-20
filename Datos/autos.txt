@@ -1,0 +1,9 @@
+Ford,Fiesta,ABC123,5
+Chevrolet,Corsa,DEF456,3
+Volkswagen,Gol,GHI789,5
+Toyota,Corolla,JKL321,67
+Honda,Civic,RRR555,4
+Renault,Clio,AAA333,3
+Peugeot,208,STU159,5
+Fiat,Cronos,VWX753,4
+Hyundai,i20,KKK444,5

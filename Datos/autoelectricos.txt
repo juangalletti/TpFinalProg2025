@@ -1,0 +1,9 @@
+Tesla,Model3,ELE111,75.0,Si
+Tesla,ModelY,ELE222,82.0,Si
+Renault,Kangoo ZE,ELE444,33.0,No
+BMW,i3,ELE555,42.0,No
+Audi,eTron,ELE666,95.0,Si
+Hyundai,Kona EV,ELE777,64.0,No
+Kia,EV6,ELE888,77.0,Si
+BYD,Han,R,85.0,Si
+Volkswagen,ID4,XX444,77.0,on

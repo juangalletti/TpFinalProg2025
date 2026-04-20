@@ -1,0 +1,9 @@
+Toyota,Prius,HIB111,5,1.3
+Hyundai,Ioniq,HIB222,5,1.6
+Kia,Niro,HIB333,5,1.5
+Ford,Mondeo,HIB444,4,1.4
+Toyota,CorollaHybrid,HIB666,4,1.8
+Lexus,UX250h,HIB777,5,2.0
+Lexus,ES300h,HIB888,4,2.5
+Volvo,XC60Hybrid,HIB999,5,2.2
+BMW,330e,HIB000,4,2.0
